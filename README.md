@@ -24,6 +24,6 @@ A Coffee shop website task developed in bootstrap5
 <h2>How to Use:</h2>
 <ol>
   <li>Clone the repository.</li>
-  <li>Open <code>index.html</code> in your browser to view the homepage.</li>
+  <li>Open <code>mysoln.html</code> in your browser to view the homepage.</li>
   <li>Customize the content and images as needed.</li>
 </ol>
